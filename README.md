@@ -1,9 +1,3 @@
-<div align="center">　　　　　　　　<a href="https://open.spotify.com/track/5lVMIRbSbQAvpNV3M33uBW?si=8f88be99f07c4946"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&pause=1000&color=FF4D00&width=435&lines=%E2%9D%9D%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80do+you+believe+in+love+at+first+sight%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%3F%E2%A0%80.%E2%A0%80.%E2%A0%80.;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80do+you+believe+in+fate%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%3F%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%9D%9E" alt="Typing SVG" /></a>
-<div>　　　　</div>
-  
-  ![](https://komarev.com/ghpvc/?username=decayingcrow&color=orange&label=nest+visitors&abbreviated=true)                                                                                                                            
-<div>　　　　</div>
-
 <a href="https://www.tumblr.com/ventibesito/760425099397562368/ive-been-binge-watching-eah-analysis-videos-and?utm_source=Pinterest&utm_medium=organic"><img src="https://i.ibb.co/LbggdQK/Untitled876-20260917213056.png" align="center" width="100%" height="100%">
 
 
