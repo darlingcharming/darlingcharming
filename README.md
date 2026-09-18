@@ -1,4 +1,6 @@
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=darlingcharming&color=AECFD6&label=Wonderland+visitors&abbreviated=true)
  
 ${\textsf{\color{#AECFD6}Loyal}}$ ${\textsf{\color{#BBD5DA}protector}}$ ${\textsf{\color{#DFF1F1}of}}$ ${\textsf{\color{#F5F5F5}Wonderland}}$
 
