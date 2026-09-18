@@ -17,8 +17,6 @@ ${\textsf{\color{#F5F5F5}the⠀storm⠀system⠀<⠀10.19.24⠀3}}$<br>
 
   ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ [prns.cc](https://pronouns.cc/@decayingcrow) ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ [ata](https://decayingcrow.atabook.org/) ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎
 
-[@pt-hall-of-media](https://github.com/pt-hall-of-media) [@kaotown](https://github.com/kaotown)
-
 <details>
 
 <summary>${\textsf{\color{#ff4d00}ext}}$</summary>
