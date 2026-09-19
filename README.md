@@ -12,3 +12,5 @@ ${\textsf{\color{#AECFD6}"⠀It}}$ ${\textsf{\color{#AECFD6}was}}$ ${\textsf{\co
 
  [main](https://github.com/decayingcrow) ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ [ata](https://darlingcharming.atabook.org/) ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ [wip](https://fluffle.cc/thewhiteknight)‎
 <div> ‎‎  ‎‎ </div>
+
+${\textsf{\color{#AECFD6}More}}$ ${\textsf{\color{#BBD5DA}info}}$ ${\textsf{\color{#DFF1F1}on}}$ ${\textsf{\color{#F5F5F5}main}}$
