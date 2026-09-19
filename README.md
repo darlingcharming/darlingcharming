@@ -2,6 +2,7 @@
  
 ${\textsf{\color{#AECFD6}Loyal}}$ ${\textsf{\color{#BBD5DA}protector}}$ ${\textsf{\color{#DFF1F1}of}}$ ${\textsf{\color{#F5F5F5}Wonderland}}$
 
+${\textsf{\color{#AECFD6}"⠀It}}$ ${\textsf{\color{#AECFD6}was}}$ ${\textsf{\color{#BBD5DA}my}}$ ${\textsf{\color{#BBD5DA}duty}}$ ${\textsf{\color{#DFF1F1}and}}$ ${\textsf{\color{#F5F5F5}my}}$ ${\textsf{\color{#F5F5F5}honor.⠀"}}$
  <div> ‎‎  ‎‎  ‎‎ </div>
 
 ![](https://komarev.com/ghpvc/?username=darlingcharming&color=AECFD6&label=Wonderland+visitors&abbreviated=true)
@@ -11,5 +12,3 @@ ${\textsf{\color{#AECFD6}Loyal}}$ ${\textsf{\color{#BBD5DA}protector}}$ ${\texts
 
  [main](https://github.com/decayingcrow) ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ [ata](https://darlingcharming.atabook.org/) ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ [wip](https://fluffle.cc/thewhiteknight)‎
 <div> ‎‎  ‎‎ </div>
- 
- ${\textsf{\color{#AECFD6}More}}$ ${\textsf{\color{#BBD5DA}info}}$ ${\textsf{\color{#DFF1F1}on}}$ ${\textsf{\color{#F5F5F5}main}}$
