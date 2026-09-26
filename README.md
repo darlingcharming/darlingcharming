@@ -1,6 +1,7 @@
 <div align="center">
 
 ${\textsf{\color{#AECFD6}The}}$ ${\textsf{\color{#BBD5DA}White}}$ ${\textsf{\color{#DFF1F1}Knight}}$<br>
+
 ${\textsf{\color{#AECFD6}Loyal}}$ ${\textsf{\color{#BBD5DA}protector}}$ ${\textsf{\color{#DFF1F1}of}}$ ${\textsf{\color{#F5F5F5}Wonderland}}$
 
 ${\textsf{\color{#AECFD6}"⠀It}}$ ${\textsf{\color{#AECFD6}was}}$ ${\textsf{\color{#BBD5DA}my}}$ ${\textsf{\color{#BBD5DA}duty}}$ ${\textsf{\color{#DFF1F1}and}}$ ${\textsf{\color{#F5F5F5}my}}$ ${\textsf{\color{#F5F5F5}honor.⠀"}}$
