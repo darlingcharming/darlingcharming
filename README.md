@@ -14,3 +14,4 @@ ${\textsf{\color{#AECFD6}"⠀It}}$ ${\textsf{\color{#AECFD6}was}}$ ${\textsf{\co
 
  [ata](https://darlingcharming.atabook.org/) ‎‎ ‎‎‎ ‎ ‎‎ ‎‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ [fluffle](https://fluffle.cc/thewhiteknight)‎
 
+${\textsf{\color{#AECFD6}Pony town's}}$ ${\textsf{\color{#BBD5DA}Darling}}$ ${\textsf{\color{#DFF1F1}Charming}}$<br>
